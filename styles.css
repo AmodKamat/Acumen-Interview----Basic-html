@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: aqua;
+}
+
+.heading-center{
+   text-align: center;
+}
+
+.heading-center h1{
+    font-size: 40px;
+}
+p{
+    font-size: 30px;
+}
